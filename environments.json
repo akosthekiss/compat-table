@@ -2903,6 +2903,22 @@
     "release": "2017-09-23",
     "obsolete": false
   },
+  "jerryscript1_0": {
+    "full": "JerryScript 1.0",
+    "family": "JerryScript",
+    "short": "JrS 1.0",
+    "platformtype": "engine",
+    "release": "2016-09-02",
+    "obsolete": true
+  },
+  "jerryscript2_0": {
+    "full": "JerryScript Head",
+    "family": "JerryScript",
+    "short": "JrS 2.0",
+    "platformtype": "engine",
+    "release": "2019-08-31",
+    "obsolete": false
+  },
   "nashorn1_8": {
     "full": "Oracle Nashorn 1.8",
     "family": "Nashorn",
